@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Lalit Singh
+- 👋 Hi, I’m Lalit Singh I am currently a second year Electronics Engineering Student at IIT Varanasi
 - 👀 I’m interested in webdev Ml and cp.
 - 🌱 I’m currently learning machine learning and nextjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 9388lalit my github handle
+- 📫 How to reach me at lalit.singh.ece21@itbhu.ac.in
 
 <!---
 9389lalit/9389lalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
