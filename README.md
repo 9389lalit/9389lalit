@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalit Singh I am currently a second year Electronics Engineering Student at IIT Varanasi
-- 👀 I’m interested in webdev Ml and cp.
-- 🌱 I’m currently learning machine learning and nextjs
+- 👀 I’m interested in Core Electronics.
+- 🌱 learning verilog now a days.
 - 📫 How to reach me at lalit.singh.ece21@itbhu.ac.in
 
 <!---
