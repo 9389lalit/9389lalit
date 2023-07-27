@@ -3,7 +3,7 @@
 - 👀 I’m interested in Core Electronics, Web development, and Graphic Designing.
 - Have a good knowledge of C, C++.
 - Have the knowledge of React, Node.js, Html5, CSS,bootstrap5, Mongoose,Tailwind.
-- **🌱 learning Verilog, VLSI, and Computer Architecture nowadays**.
+- **🌱 learning Verilog, VLSI, Digital Electronics, Analog Electronics, Data structures and algorithms, and Computer Architecture nowadays**.
 - Have knowledge of Digital Electronics and Analog Electronics and Computer architecture.
 - 📫 How to reach me at lalit.singh.ece21@iitbhu.ac.in
 
