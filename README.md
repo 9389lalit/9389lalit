@@ -1,5 +1,5 @@
 - **👋 Hi, I’m Lalit Singh**
-- I am currently a second-year Electronics Engineering Student at IIT Varanasi.
+- I am currently a junior undergrad in Electronics Engineering Student at IIT Varanasi.
 - 👀 I’m interested in Core Electronics, Web development, and Graphic Designing.
 - Have a good knowledge of C and C++.
 - Have the knowledge of React, Node.js, Html5, CSS,bootstrap5, Mongoose,Tailwind.
