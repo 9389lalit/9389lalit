@@ -1,9 +1,10 @@
 - **👋 Hi, I’m Lalit Singh**
+- A VLSI design enthusiast from India
 - I am currently a junior undergrad in Electronics Engineering Student at IIT Varanasi.
 - 👀 I’m interested in Core Electronics, Web development, and Graphic Designing.
-- Have a good knowledge of C and C++.
+- Know C and C++.
 - Have the knowledge of React, Node.js, Html5, CSS,bootstrap5, Mongoose,Tailwind.
-- **🌱 Exploring Verilog, VLSI, Digital Electronics, Analog Electronics, Data structures and algorithms, Matlab, Arduino, PCB Designing,  and Computer Architecture nowadays**.
+- **🌱 Exploring Verilog, VLSI Design, and Computer Architecture**.
 - Good knowledge of Digital Electronics, Analog Electronics, and Computer architecture.
 - 📫 reach me at **lalit.singh.ece21@iitbhu.ac.in.**
 
